@@ -1,0 +1,14 @@
+p{
+    background-image: url(tulips.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    font-size: 30px;
+    font-family:inherit;
+   }
+   
+h3{
+    background: url(Hydrangeas.jpg);
+    font-size: 30px;
+}

@@ -1,0 +1,19 @@
+p{
+    background-image: url(Hydrangeas.jpg);
+}
+h1{
+    font-size: 30px;
+    font-family: initial;
+}
+.flexcontainer{
+    display:flex;
+    color:blue;
+    font-size: 60px;
+}
+.flexitem{
+    border-style: double;
+    padding: 20px;
+}
+div{
+   background-image: tulips;
+}

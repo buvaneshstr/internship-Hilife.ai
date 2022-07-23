@@ -1,0 +1,12 @@
+p {
+    color: greenyellow;
+    font-size-adjust:27px;
+    text-align:center;
+
+  }
+    body {background-color: red;}
+    h2  {color:black;}
+img
+    {
+      filter:blur(2px);
+    }

@@ -1,0 +1,6 @@
+body{
+    background-color: blue !important;
+}
+.heading-1{
+    background-image: -moz-linear-gradient(red,green,black);
+}
